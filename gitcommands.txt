@@ -43,3 +43,9 @@ git add gitcommands.txt
 git commit -m "initial commit"
 git remote add origin <repo link>
 git push -u origin master
+
+Step to commit new changes: 
+add the files to be commit
+git add ...
+git commit -m "message"
+git push -u origin master
