@@ -6,6 +6,7 @@ experience with.
 git: gives description of Git commands
 clone: clone a repository into a new directory
 init: create an empty Git repo/reinitialize an existing one
+sugma?: sugma balls! hey got him
 
 Work on current change:
 add: add file contents to index
