@@ -35,3 +35,11 @@ collaborate:
 fetch: download objects and refs from another repo
 pull: fetch fromand integrate with repo or local branch
 push: update remote refs along with associated objects
+
+
+Create and initialize new repo: 
+git init
+git add gitcommands.txt
+git commit -m "initial commit"
+git remote add origin <repo link>
+git push -u origin master
