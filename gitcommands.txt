@@ -1,0 +1,37 @@
+Author: Parker Guillen
+Date: 1/13/2021
+Description: This file is used to review git features and review features I have less
+experience with. 
+
+git: gives description of Git commands
+clone: clone a repository into a new directory
+init: create an empty Git repo/reinitialize an existing one
+
+Work on current change:
+add: add file contents to index
+mv: move or rename a file
+restore: restore working tree files
+rm: remove files from working directory
+sparse-checkout: initialize and modify sparse-checkout?
+
+Examine history and state: 
+bisect: use BST to discover commit that introduced a bug
+diff: show changes between commits
+grep: print lines matching a pattern
+log: show commit logs
+show: show types of objects
+status: show the working tree
+
+Grow/Mark/Tweak common history:
+branch: list, create, delete branches
+commit: record changes to repository
+merge: join two or more development histories
+rebase: reapply commits on top of another branches
+reset: reset current HEAD to specific state
+switch: switch branches
+tag: create,list,delete or verify a tag object signed with GPG? 
+
+collaborate:
+fetch: download objects and refs from another repo
+pull: fetch fromand integrate with repo or local branch
+push: update remote refs along with associated objects
